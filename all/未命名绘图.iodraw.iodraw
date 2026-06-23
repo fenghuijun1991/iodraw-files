@@ -31,6 +31,9 @@
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-9" value="自动分装灌装 3/5/10mL 容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="-ixirJGF9bgsW_DEu0sZ-11" value="pH 调节、充分混匀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
