@@ -40,8 +40,11 @@
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-11" value="贴标、喷码批号 / 有效期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-ixirJGF9bgsW_DEu0sZ-13" value="纯化水溶解搅拌配制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ixirJGF9bgsW_DEu0sZ-13" value="全项出厂检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-ixirJGF9bgsW_DEu0sZ-15" value="全项出厂检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
