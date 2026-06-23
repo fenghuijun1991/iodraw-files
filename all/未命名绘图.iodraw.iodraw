@@ -20,10 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-4" value="pH 调节、充分混匀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="140" height="70" as="geometry" />
+          <mxGeometry x="460" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-6" value="过滤（关键除杂工艺）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="160" height="70" as="geometry" />
+          <mxGeometry x="630" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-ixirJGF9bgsW_DEu0sZ-9" value="过滤（关键除杂工艺）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
