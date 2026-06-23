@@ -7,6 +7,9 @@
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-1" value="原料称量&lt;div&gt;（关键：精准称量配比异硫氰酸胍、Tris 缓冲盐、EDTA 二钠、曲拉通 X-100）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="230" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="-ixirJGF9bgsW_DEu0sZ-2" value="纯化水溶解搅拌配制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
