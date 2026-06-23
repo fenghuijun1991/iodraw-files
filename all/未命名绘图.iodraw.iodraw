@@ -14,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-2" value="纯化水溶解搅拌配制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="120" height="70" as="geometry" />
+          <mxGeometry x="280" y="280" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ixirJGF9bgsW_DEu0sZ-4" target="-ixirJGF9bgsW_DEu0sZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-4" value="pH 调节、充分混匀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="120" height="70" as="geometry" />
+          <mxGeometry x="430" y="280" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-ixirJGF9bgsW_DEu0sZ-6" value="过滤（关键除杂工艺）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="280" width="160" height="70" as="geometry" />
+          <mxGeometry x="600" y="280" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
