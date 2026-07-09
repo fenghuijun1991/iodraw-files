@@ -79,11 +79,20 @@
         <mxCell id="4BjJJAvPEokDdsPwRAio-20" value="分装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="654" width="324" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="4BjJJAvPEokDdsPwRAio-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-21" target="4BjJJAvPEokDdsPwRAio-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-21" value="贴标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="717" width="324" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="4BjJJAvPEokDdsPwRAio-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-22" target="4BjJJAvPEokDdsPwRAio-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-22" value="组装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="780" width="324" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4BjJJAvPEokDdsPwRAio-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-23" target="4BjJJAvPEokDdsPwRAio-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-23" value="成品检验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="845" width="324" height="45" as="geometry" />
