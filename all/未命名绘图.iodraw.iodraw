@@ -10,7 +10,7 @@
         <mxCell id="4BjJJAvPEokDdsPwRAio-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-1" target="4BjJJAvPEokDdsPwRAio-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4BjJJAvPEokDdsPwRAio-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4BjJJAvPEokDdsPwRAio-1" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-US&quot;&gt;Tris &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:115%;font-family:&lt;br/&gt;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;缓冲液&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="154" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-2" target="4BjJJAvPEokDdsPwRAio-7">
@@ -74,7 +74,7 @@
           <mxGeometry x="261" y="717" width="324" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="674" width="324" height="45" as="geometry" />
+          <mxGeometry x="261" y="780" width="324" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
