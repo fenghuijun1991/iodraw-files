@@ -53,11 +53,19 @@
         <mxCell id="4BjJJAvPEokDdsPwRAio-8" value="原料检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="397" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4BjJJAvPEokDdsPwRAio-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423.3333740234375" y="530.6666870117188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-9" value="原料检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="261" y="530" width="324" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4BjJJAvPEokDdsPwRAio-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="540" width="324" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
