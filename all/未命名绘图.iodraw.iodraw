@@ -42,7 +42,7 @@
             <mxPoint x="422.0001220703125" y="530.6666870117188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BjJJAvPEokDdsPwRAio-7" value="原料检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="4BjJJAvPEokDdsPwRAio-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;原料检验&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="286" y="397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-8">
@@ -50,7 +50,7 @@
             <mxPoint x="422.0001220703125" y="530.6666870117188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BjJJAvPEokDdsPwRAio-8" value="原料检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="4BjJJAvPEokDdsPwRAio-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;原料检验&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-9">
@@ -58,7 +58,7 @@
             <mxPoint x="423.3333740234375" y="530.6666870117188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BjJJAvPEokDdsPwRAio-9" value="原料检验" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="4BjJJAvPEokDdsPwRAio-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;原料检验&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="397" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BjJJAvPEokDdsPwRAio-14" target="4BjJJAvPEokDdsPwRAio-19">
@@ -101,7 +101,7 @@
           <mxGeometry x="261" y="906" width="324" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4BjJJAvPEokDdsPwRAio-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;rotation=0;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="470" y="540" width="15.78" height="17" as="geometry" />
+          <mxGeometry x="470.11" y="544" width="15.78" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
